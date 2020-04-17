@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "avon-proveedores-client-side-solution",
+    "id": "9fa43a92-87fe-4fd6-885b-56c4c09868d8",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/avon-proveedores.sppkg"
+  }
+}
